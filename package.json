@@ -1,0 +1,25 @@
+{
+  "name": "express-login-ui",
+  "version": "1.0.0",
+  "description": "Simple demo application implementing following:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilesh-g/express-login-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilesh-g/express-login-ui/issues"
+  },
+  "homepage": "https://github.com/nilesh-g/express-login-ui#readme",
+  "dependencies": {
+    "chromedriver": "^148.0.4",
+    "express": "^5.2.1",
+    "selenium-webdriver": "^4.44.0"
+  }
+}
